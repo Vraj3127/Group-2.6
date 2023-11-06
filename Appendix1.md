@@ -42,7 +42,6 @@ Mohamadaakib Malik (2191732)
 Title: Secure Access Service Edge: A Zero Trust Based Framework For Accessing Data Securely
 Author(s): Silafu Yiliyaer, Yoohwan Kim
 Affiliation(s): Department of Computer Science, University of Nevada Las Vegas, Las Vegas, NV 89154, USA
-Email: yiliyaer@unlv.nevada.edu, Yoohwan.kim@unlv.edu
 Abstract: With the growing demand for remote work, organizations need to provide secure access to their private networks. This paper introduces the Secure Access Service Edge (SASE) framework, which combines various network utility and security functions at the edge of the cloud. SASE uses a Zero Trust Architecture, authenticating and authorizing every request without trusting any device or user. It leverages Software Defined Wide Area Network (SD-WAN) for efficient and encrypted connections, Secure Web Gateway (SWG) for additional security, and Cloud Access Security Broker (CASB) to enforce security policies. The paper discusses the deployment and operation of SASE, as well as its benefits and challenges.
 Publication details: 
 - Conference: 2022 IEEE 12th Annual Computing and Communication Workshop and Conference (CCWC)
